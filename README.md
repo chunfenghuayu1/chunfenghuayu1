@@ -13,4 +13,4 @@
 
 <br />
 
-![](https://github-readme-stats.vercel.app/api?username=chunfenghuayu1&show_icons=true&theme=dracula&bg_color=30,000000,434343)
+![](https://github-readme-stats.vercel.app/api?username=chunfenghuayu1&show_icons=true&theme=dracula)
